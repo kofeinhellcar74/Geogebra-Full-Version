@@ -242,4 +242,4 @@ This repository serves as the official landing page for GeoGebra. The software i
 **Get the most recent version of GeoGebra today!**
 
 ---
-**Last updated:** 2026-11-04 23:23:00 UTC
+**Last updated:** 2026-11-05 05:45:14 UTC
